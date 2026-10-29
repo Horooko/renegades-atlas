@@ -11396,5 +11396,9 @@
       "validation_passed": true
     }
   },
-  "source": "Local Destiny 2 packages, 2026-10-29"
+  "source": "Local Destiny 2 packages, 2026-10-29",
+  "rights": {
+    "atlasContributions": "Copyright (c) 2026 Horooko (Konstantin Dyachenko). MIT License.",
+    "gameMaterials": "Destiny 2 names, game geometry, related game assets and trademarks remain the property of their respective rights holders. The MIT license grants rights to the atlas author contributions only."
+  }
 }
